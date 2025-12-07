@@ -42,9 +42,9 @@ ENV/
 *.db
 *.sqlite
 *.csv
-data/
-logs/
-models/saved_models/
+/data/
+/logs/
+/models/saved_models/
 
 # OS
 .DS_Store
